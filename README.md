@@ -50,7 +50,7 @@ This project demonstrates several important Flutter patterns:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Aroxed/flutter_component_tutorial
 cd flutter_component_tutorial
 ```
 
